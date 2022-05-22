@@ -19,3 +19,6 @@ Please read the tutorial at  https://www.baeldung.com/spring-boot-crud-thymeleaf
 
 And please elaborate your understanding in MVC architecture via this homework in your README.md.
 
+## 我的理解
+
+MVC框架通过控制器进行模型和用户界面的不同调用，实现不同业务逻辑。view接受用户对pos的操作，通过controller发送给model的处理模块，然后再通过view显示出来。
